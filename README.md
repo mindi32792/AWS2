@@ -1,1 +1,1 @@
-# AWS2
+Basic code for Course AWS
